@@ -34,14 +34,14 @@ Hi, I'm Simon!
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SAS]()
+![SAS](https://img.shields.io/badge/SAS-FFFFFF?style=for-the-badge&logo=sas&logoColor=0378CD&labelColor=0378CD)
     
 ### Frameworks and Libraries
 ![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NEST]()
-![Matplotlib]()
+![NEST](https://img.shields.io/badge/nest-FF6633?style=for-the-badge&logo=nest&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&logo=nest&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Software and Tools
