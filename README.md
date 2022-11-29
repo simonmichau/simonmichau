@@ -53,4 +53,4 @@ Hi, I'm Simon!
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=green&labelColor=green)
 ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![GNOME](https://img.shields.io/badge/gnome?style=for-the-badge&logo=gnome&logoColor=white)
+![GNOME](https://img.shields.io/badge/gnome-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
