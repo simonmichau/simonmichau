@@ -1,13 +1,12 @@
 <h1 align="center">
-Hi, I'm Simon!
- <img src="https://gpvc.arturio.dev/simonmichau" alt="Profile views" align='right'/> <a href="https://github.com/simonmichau/simonmichau/"> </a> 
+Hi, I'm Simon! <br/>
+<img src="https://gpvc.arturio.dev/simonmichau" alt="Profile views" align='right'/> <a href="https://github.com/simonmichau/simonmichau/"> </a> 
   
 <!--separator-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--about me-->
 ## **About Me**
-<br/>
 ```
 👋 I am a Computer Science student at RWTH Aachen University in Germany minoring in medicine
 👀 My interests involve Data Science, Machine Learning and their Life Science applications (e.g. Bioinformatics, Computational Neuroscience and Medical)
