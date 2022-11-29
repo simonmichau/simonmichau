@@ -1,9 +1,8 @@
 <h1 align="center">
-Hi, I'm Simon! <br/>
-<img src="https://gpvc.arturio.dev/simonmichau" alt="Profile views" align='right'/> <a href="https://github.com/simonmichau/simonmichau/"> </a> 
-  
+Hi, I'm Simon!  
 <!--separator-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://gpvc.arturio.dev/simonmichau" alt="Profile views" align='right'/> <a href="https://github.com/simonmichau/simonmichau/"> </a> 
 
 <!--about me-->
 ## **About Me**
@@ -20,8 +19,8 @@ Hi, I'm Simon! <br/>
 <div align="center">
 
 <a href="https://github.com/simonmichau/">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonmichau&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonmichau&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="simonmichau"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=simonmichau&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonmichau&langs_count=8&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200"  alt="simonmichau"/>
 </a>
 </div> 
   
