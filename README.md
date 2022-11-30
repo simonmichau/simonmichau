@@ -1,5 +1,3 @@
-<h1 align="center">
-Hi, I'm Simon!  
 <!--separator-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://gpvc.arturio.dev/simonmichau" alt="Profile views" align='right'/> <a href="https://github.com/simonmichau/simonmichau/"> </a> 
@@ -7,8 +5,8 @@ Hi, I'm Simon!
 <!--about me-->
 ## <img src="https://media.giphy.com/media/hosAwbHnNAV2iitWXD/giphy.gif" width="35"><b> About Me </b>
 ```
-👋 I am a Computer Science student at RWTH Aachen University in Germany minoring in medicine
-👀 My interests involve Data Science, Machine Learning and their Life Science applications (e.g. Bioinformatics, Computational Neuroscience and Medical)
+👋 Computer Science student at RWTH Aachen University (Germany) minoring in medicine
+👀 Interested in Data Science, Machine Learning and their Life Science applications (e.g. Bioinformatics, Computational Neuroscience and Medical)
 🚩 You can find my bachelor's thesis [here](https://github.com/simonmichau/sequence-learning/tree/main/thesis/thesis_small.pdf)
 ```
 
