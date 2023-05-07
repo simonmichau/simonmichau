@@ -3,9 +3,9 @@
 <!--about me-->
 ## <img src="https://media.giphy.com/media/hosAwbHnNAV2iitWXD/giphy.gif" width="35"><b> About Me </b>
 ```
-👋 Computer Science student at RWTH Aachen University (Germany) minoring in medicine
-👀 Interested in Data Science, Machine Learning and their Life Science applications (e.g. Bioinformatics, Computational Neuroscience and Medical)
-🚩 You can find my bachelor's thesis [here](https://github.com/simonmichau/sequence-learning/tree/main/thesis/thesis_small.pdf)
+👋 Data Science student at RWTH Aachen University (Germany)
+👀 Interested in Machine Learning and various Life Science applications (e.g. Bioinformatics, Computational Neuroscience and Medical)
+🚩 You can find my bachelor's thesis here: https://github.com/simonmichau/sequence-learning/tree/main/thesis/thesis_small.pdf
 ```
 
 <!--stats-->
@@ -34,11 +34,11 @@
     
 ### Frameworks and Libraries
 ![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&logo=nest&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NEST](https://img.shields.io/badge/nest-FF6633?style=for-the-badge&logo=nest&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-4698C6?style=for-the-badge&logo=nest&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Software and Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
