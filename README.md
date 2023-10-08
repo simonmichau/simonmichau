@@ -1,6 +1,6 @@
 <!--about me-->
 ## <b> About Me </b>
-👋 I am a Data Science student at RWTH Aachen University (Germany)
+👋 I am a Data Science student at RWTH Aachen University (Germany) <br>
 👀 Interested in Life Science applications of Data and Computer Sciences across the whole biological domain
   
 <!--skills-->
