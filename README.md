@@ -1,27 +1,10 @@
-<img src="https://gpvc.arturio.dev/simonmichau" alt="Profile views" align='right'/> <a href="https://github.com/simonmichau/simonmichau/"> </a> 
-
 <!--about me-->
-## <img src="https://media.giphy.com/media/hosAwbHnNAV2iitWXD/giphy.gif" width="35"><b> About Me </b>
-```
-👋 Data Science student at RWTH Aachen University (Germany)
-👀 Interested in Machine Learning and various Life Science applications (e.g. Bioinformatics, Computational Neuroscience and Medical)
-🚩 You can find my bachelor's thesis here: https://github.com/simonmichau/sequence-learning/tree/main/thesis/thesis_small.pdf
-```
-
-<!--stats-->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/simonmichau/">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonmichau&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonmichau&langs_count=8&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="31%"/>
-</a>
-</div> 
+## <b> About Me </b>
+👋 I am a Data Science student at RWTH Aachen University (Germany)
+👀 Interested in Life Science applications of Data and Computer Sciences across the whole biological domain
   
 <!--skills-->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <b> Skills</b>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
